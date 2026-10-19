@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24&height=200&section=header&text=Helviq%20%7C%20Swiss%20Cloud%20&%20B2B%20Hosting&fontSize=32&fontAlignY=38&animation=fadeIn" width="100%"/>
+8<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24&height=200&section=header&text=Helviq%20%7C%20Swiss%20Cloud%20&%20B2B%20Hosting&fontSize=32&fontAlignY=38&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -39,8 +39,7 @@ Vous trouverez sur notre organisation des outils et scripts réutilisables pour 
 
 ## 📬 Contact & Informations
 
-- 🌐 **Plateforme B2B** : En cours de développement intense.
-- 📧 **Inquiries & Contact** : Pour toute question ou partenariat, contactez l'équipe technique.
+- contact@helviq.net
 
 <br/>
 
